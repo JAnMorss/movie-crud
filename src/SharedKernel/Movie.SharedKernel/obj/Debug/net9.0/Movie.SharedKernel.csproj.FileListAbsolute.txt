@@ -1,0 +1,12 @@
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\bin\Debug\net9.0\Movie.SharedKernel.deps.json
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\bin\Debug\net9.0\Movie.SharedKernel.dll
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\bin\Debug\net9.0\Movie.SharedKernel.pdb
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\obj\Debug\net9.0\Movie.SharedKernel.csproj.AssemblyReference.cache
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\obj\Debug\net9.0\Movie.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\obj\Debug\net9.0\Movie.SharedKernel.AssemblyInfoInputs.cache
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\obj\Debug\net9.0\Movie.SharedKernel.AssemblyInfo.cs
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\obj\Debug\net9.0\Movie.SharedKernel.csproj.CoreCompileInputs.cache
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\obj\Debug\net9.0\Movie.SharedKernel.dll
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\obj\Debug\net9.0\refint\Movie.SharedKernel.dll
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\obj\Debug\net9.0\Movie.SharedKernel.pdb
+D:\fullstackPractice\Movies\src\SharedKernel\Movie.SharedKernel\obj\Debug\net9.0\ref\Movie.SharedKernel.dll

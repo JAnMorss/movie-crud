@@ -1,0 +1,17 @@
+D:\fullstackPractice\Movies\src\Movie.Application\bin\Debug\net9.0\Movie.Application.deps.json
+D:\fullstackPractice\Movies\src\Movie.Application\bin\Debug\net9.0\Movie.Application.dll
+D:\fullstackPractice\Movies\src\Movie.Application\bin\Debug\net9.0\Movie.Application.pdb
+D:\fullstackPractice\Movies\src\Movie.Application\bin\Debug\net9.0\Movie.Domain.dll
+D:\fullstackPractice\Movies\src\Movie.Application\bin\Debug\net9.0\Movie.SharedKernel.dll
+D:\fullstackPractice\Movies\src\Movie.Application\bin\Debug\net9.0\Movie.Domain.pdb
+D:\fullstackPractice\Movies\src\Movie.Application\bin\Debug\net9.0\Movie.SharedKernel.pdb
+D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\Movie.Application.csproj.AssemblyReference.cache
+D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\Movie.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\Movie.Application.AssemblyInfoInputs.cache
+D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\Movie.Application.AssemblyInfo.cs
+D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\Movie.Application.csproj.CoreCompileInputs.cache
+D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\Movie.Ap.4B94ECBC.Up2Date
+D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\Movie.Application.dll
+D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\refint\Movie.Application.dll
+D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\Movie.Application.pdb
+D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\ref\Movie.Application.dll

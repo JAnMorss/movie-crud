@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{1BBFC95B-E8DA-4FC9-A578-D27F70497227}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SharedKernel", "SharedKernel", "{E4E4DF4B-7B9B-4560-888F-B726063ADE8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie.SharedKernel", "src\SharedKernel\Movie.SharedKernel\Movie.SharedKernel.csproj", "{B6406B11-2A1B-4226-8689-14FC5C8E20D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie.Application", "src\Movie.Application\Movie.Application.csproj", "{26656B43-409C-497B-B178-C0037D8B5B82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie.Domain", "src\Movie.Domain\Movie.Domain.csproj", "{36407432-4ED5-469C-BC6D-411E5AAEC3C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie.Infrastructure", "src\Movie.Infrastructure\Movie.Infrastructure.csproj", "{496DBF64-3E3A-4EEA-AC6F-5A785E95027A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie.Api", "src\Movie.Api\Movie.Api.csproj", "{D56DD5DD-CDD9-472D-A995-0812DC4C5C55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6406B11-2A1B-4226-8689-14FC5C8E20D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6406B11-2A1B-4226-8689-14FC5C8E20D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6406B11-2A1B-4226-8689-14FC5C8E20D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6406B11-2A1B-4226-8689-14FC5C8E20D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26656B43-409C-497B-B178-C0037D8B5B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26656B43-409C-497B-B178-C0037D8B5B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26656B43-409C-497B-B178-C0037D8B5B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26656B43-409C-497B-B178-C0037D8B5B82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36407432-4ED5-469C-BC6D-411E5AAEC3C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36407432-4ED5-469C-BC6D-411E5AAEC3C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36407432-4ED5-469C-BC6D-411E5AAEC3C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36407432-4ED5-469C-BC6D-411E5AAEC3C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496DBF64-3E3A-4EEA-AC6F-5A785E95027A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496DBF64-3E3A-4EEA-AC6F-5A785E95027A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496DBF64-3E3A-4EEA-AC6F-5A785E95027A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496DBF64-3E3A-4EEA-AC6F-5A785E95027A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56DD5DD-CDD9-472D-A995-0812DC4C5C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56DD5DD-CDD9-472D-A995-0812DC4C5C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56DD5DD-CDD9-472D-A995-0812DC4C5C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56DD5DD-CDD9-472D-A995-0812DC4C5C55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E4E4DF4B-7B9B-4560-888F-B726063ADE8F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{B6406B11-2A1B-4226-8689-14FC5C8E20D4} = {E4E4DF4B-7B9B-4560-888F-B726063ADE8F}
+		{26656B43-409C-497B-B178-C0037D8B5B82} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{36407432-4ED5-469C-BC6D-411E5AAEC3C7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{496DBF64-3E3A-4EEA-AC6F-5A785E95027A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{D56DD5DD-CDD9-472D-A995-0812DC4C5C55} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45AD323F-6A51-44D1-A270-104570A2E1EF}
+	EndGlobalSection
+EndGlobal
