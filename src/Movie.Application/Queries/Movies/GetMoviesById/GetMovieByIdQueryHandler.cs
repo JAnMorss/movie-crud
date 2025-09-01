@@ -1,4 +1,4 @@
-﻿using Movie.Application.DTOs.Movies;
+﻿using Movie.Application.Responses.Movies;
 using Movie.Domain.Interfaces;
 using Movie.SharedKernel.Application.Query;
 using Movie.SharedKernel.ErrorHandling;

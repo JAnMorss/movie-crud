@@ -1,4 +1,4 @@
-﻿using Movie.Application.DTOs.Movies;
+﻿using Movie.Application.Responses.Movies;
 using Movie.SharedKernel.Application.Command;
 
 namespace Movie.Application.Commands.Movies.UpdateMovies;

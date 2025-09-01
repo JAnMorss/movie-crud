@@ -1,6 +1,6 @@
 ﻿
 using MediatR;
-using Movie.Application.DTOs.Movies;
+using Movie.Application.Responses.Movies;
 using Movie.Domain.Entities;
 using Movie.Domain.Interfaces;
 using Movie.Domain.ValueObjects;

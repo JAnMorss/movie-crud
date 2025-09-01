@@ -1,6 +1,6 @@
 ﻿using Movie.Domain.Entities;
 
-namespace Movie.Application.DTOs.Movies;
+namespace Movie.Application.Responses.Movies;
 
 public sealed class MovieResponse
 {

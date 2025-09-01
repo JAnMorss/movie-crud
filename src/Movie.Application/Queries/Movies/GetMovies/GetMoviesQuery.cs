@@ -1,4 +1,4 @@
-﻿using Movie.Application.DTOs.Movies;
+﻿using Movie.Application.Responses.Movies;
 using Movie.SharedKernel.Application.Query;
 
 namespace Movie.Application.Queries.Movies.GetMovies;
