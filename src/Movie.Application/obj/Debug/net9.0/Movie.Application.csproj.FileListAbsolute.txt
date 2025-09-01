@@ -15,3 +15,4 @@ D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\Movie.Applica
 D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\refint\Movie.Application.dll
 D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\Movie.Application.pdb
 D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\ref\Movie.Application.dll
+D:\fullstackPractice\Movies\src\Movie.Application\obj\Debug\net9.0\Movie.Application.sourcelink.json

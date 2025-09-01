@@ -17,3 +17,4 @@ D:\fullstackPractice\Movies\src\Movie.Infrastructure\obj\Debug\net9.0\Movie.Infr
 D:\fullstackPractice\Movies\src\Movie.Infrastructure\obj\Debug\net9.0\refint\Movie.Infrastructure.dll
 D:\fullstackPractice\Movies\src\Movie.Infrastructure\obj\Debug\net9.0\Movie.Infrastructure.pdb
 D:\fullstackPractice\Movies\src\Movie.Infrastructure\obj\Debug\net9.0\ref\Movie.Infrastructure.dll
+D:\fullstackPractice\Movies\src\Movie.Infrastructure\obj\Debug\net9.0\Movie.Infrastructure.sourcelink.json

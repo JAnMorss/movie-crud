@@ -179,3 +179,4 @@ D:\fullstackPractice\Movies\src\Movie.Api\obj\Debug\net9.0\refint\Movie.Api.dll
 D:\fullstackPractice\Movies\src\Movie.Api\obj\Debug\net9.0\Movie.Api.pdb
 D:\fullstackPractice\Movies\src\Movie.Api\obj\Debug\net9.0\Movie.Api.genruntimeconfig.cache
 D:\fullstackPractice\Movies\src\Movie.Api\obj\Debug\net9.0\ref\Movie.Api.dll
+D:\fullstackPractice\Movies\src\Movie.Api\obj\Debug\net9.0\Movie.Api.sourcelink.json
